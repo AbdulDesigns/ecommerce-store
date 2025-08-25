@@ -1,0 +1,4 @@
+#hero-button #arrow:hover {
+  transform: translateX(10px);
+  transition: all 0.5s ease;
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1417173173,
+    "interestingFact": "India is home to the world’s largest postal network with over 150,000 post offices."
+  },
+  {
+    "id": 2,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 123294513,
+    "interestingFact": "Japan has more than 1,500 earthquakes every year due to its location on the Pacific Ring of Fire."
+  },
+  {
+    "id": 3,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": 216422446,
+    "interestingFact": "Brazil is the only country in South America where Portuguese is the official language."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 26845643,
+    "interestingFact": "Australia is home to more kangaroos than humans."
+  },
+  {
+    "id": 5,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 113482823,
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, the only remaining Wonder of the Ancient World."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 39969560,
+    "interestingFact": "Canada has the longest coastline of any country in the world, stretching over 202,000 kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1419321278,
+    "interestingFact": "The Great Wall of China is the longest wall in the world, stretching over 21,000 kilometers."
+  },
+  {
+    "id": 9,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 60949066,
+    "interestingFact": "South Africa has three capitals: Pretoria (administrative), Bloemfontein (judicial), and Cape Town (legislative)."
+  },
+  {
+    "id": 10,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 129875529,
+    "interestingFact": "Mexico City is sinking at a rate of 10 inches per year due to its foundation on a former lakebed."
+  }
+]

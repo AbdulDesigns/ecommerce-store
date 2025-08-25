@@ -1,9 +1,13 @@
+import HeroSection from "../components/UI/HeroSection";
+
 const Home = () => {
   return (
     <>
-      <div className="h-100vh flex items-center justify-center w-full bg-gray-200 min-h-dvh">
-        <h1>HOME</h1>
-      </div>
+      <main>
+        <div className="bg-gradient-to-t from-black/90 to-black min-h-screen flex flex-col justify-center text-white/90 ">
+          <HeroSection />
+        </div>
+      </main>
     </>
   );
 };
