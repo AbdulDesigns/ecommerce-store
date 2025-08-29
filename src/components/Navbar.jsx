@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 const Navbar = () => {
   return (
     <>
-      <header className=" text-white  text-bold flex items-center justify-center p-4 mx-auto bg-black/90 shadow-lg shadow-green-950">
+      <header className=" text-white  text-bold flex items-center justify-center p-4 mx-auto bg-black border-b-1 border-gray-900/70 shadow-lg shadow-green-950">
         <div className=" flex items-center gap-4 justify-between w-full max-w-[1200px]">
           <div className="logo text-2xl">
             <NavLink to="/">
@@ -17,18 +17,18 @@ const Navbar = () => {
             </NavLink>
           </div>
           <nav>
-            <ul className="flex text-white items-center justify-between gap-4">
+            <ul className="  flex text-white  items-center justify-between gap-8">
               <NavLink to={"/"}>
-                <li>Home</li>
+                <li className="nav-links">Home</li>
               </NavLink>
               <NavLink to={"/countries"}>
-                <li>Country</li>
+                <li className="nav-links">Country</li>
               </NavLink>
               <NavLink to={"/about"}>
-                <li>About</li>
+                <li className="nav-links">About</li>
               </NavLink>
               <NavLink to={"/contact"}>
-                <li>Contact</li>
+                <li className="nav-links">Contact</li>
               </NavLink>
             </ul>
           </nav>

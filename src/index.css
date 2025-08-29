@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+.nav-links {
+  color: white;
+  opacity: 70%;
+}
+
+.nav-links:active {
+  color: greenyellow;
+}
+
+.nav-links:hover {
+  transition: all 0.3s ease-in-out;
+  opacity: 100%;
+  font-weight: 400;
+}

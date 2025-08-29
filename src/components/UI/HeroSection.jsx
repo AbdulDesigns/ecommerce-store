@@ -5,9 +5,9 @@ import "../../../src/hero.css";
 const HeroSection = () => {
   return (
     <>
-      <div className=" w-full h-vh mx-auto py-10 items-center  grid grid-cols-2  max-w-[1200px] text-white ">
+      <div className=" w-full h-dvh mx-auto py-10 items-center  grid grid-cols-2  max-w-[1200px] text-white ">
         <div className="Left flex flex-col gap-5 justify-items-end ">
-          <h1 className="text-6xl font-bold">
+          <h1 className="text-5xl font-bold">
             Uniting Nations, Showcasing Innovation
           </h1>
           <p className="text-lg text-white/70 font-normal max-w-[500px]">
